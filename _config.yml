@@ -105,6 +105,3 @@ deploy:
   type: ''
 
 
-# 用于浏览器标签的图标
-# Icon for browser tab
-favicon: /images/icon/noun-ink-bottle-5605401.svg
