@@ -1,6 +1,7 @@
 title: Pacific Trails Resort 网页实验报告
+lang: zh-CN
 date: 2023-04-02 18:48:02
-tags: [HTML,CSS,实验报告,zh-CN]
+tags: [HTML, CSS, lab-report]
 ---
 ## 实验目的
 
