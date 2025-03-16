@@ -8,3 +8,15 @@ index:
       method: "GET"
       headers: {}
       keys: ["hitokoto"]
+
+about:
+  avatar: \images\icon\profile.png
+  name: "墨染江河"
+  intro: "採菊東籬下，悠然見南山。"
+  icons:
+    - { class: 'iconfont icon-github-fill', link: 'https://github.com/Moranjianghe', tip: 'GitHub' }
+    - { class: 'iconfont icon-twitter-fill', link: 'https://twitter.com/moranjianghe', tip: '推特' }
+    - { class: 'iconfont icon-note', link: 'https://www.moranxia.com/', tip: '主頁' }
+    - { class: 'iconfont icon-telegram-fill', link: 'https://t.me/ink_dyeing', tip: 'Telegram' }
+  #  - { class: 'iconfont icon-wechat-fill', qrcode: '/img/favicon.png' }
+
