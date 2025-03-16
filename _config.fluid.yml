@@ -1,0 +1,10 @@
+index:
+  slogan:
+    enable: true
+    text: 墨染江河的小窩
+    api:
+      enable: false
+      url: "https://v1.hitokoto.cn/"
+      method: "GET"
+      headers: {}
+      keys: ["hitokoto"]
