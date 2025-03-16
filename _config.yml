@@ -115,6 +115,6 @@ feed:
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
-  icon: \images\icon\profile.png
+  icon: images\icon\profile.png
   autodiscovery: true
   template:
