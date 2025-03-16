@@ -8,6 +8,7 @@ index:
       method: "GET"
       headers: {}
       keys: ["hitokoto"]
+  banner_img: /images/back.webp
 
 about:
   avatar: \images\icon\profile.png
@@ -51,3 +52,4 @@ navbar:
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
     - { key: "links", link: "/atom.xml/", icon: "iconfont icon-rss-fill",name: 'RSS' }
     
+
