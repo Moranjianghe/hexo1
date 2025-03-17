@@ -10,7 +10,23 @@ index:
       keys: ["hitokoto"]
   banner_img: /images/back.webp
 
+post:
+  banner_img: /images/back.webp
+  comments:
+    enable: true
+    type: disqus
+
+archive:
+  banner_img: /images/back.webp
+
+category:
+  enable: false
+
+tag:
+  banner_img: /images/back.webp
+  
 about:
+  banner_img: /images/back.webp 
   avatar: \images\icon\profile.png
   name: "墨染江河"
   intro: "採菊東籬下，悠然見南山。"
@@ -26,10 +42,7 @@ about:
 favicon: images/icon/noun-ink-bottle-5605401.svg
 apple_touch_icon: images/icon/noun-ink-bottle-5605401.svg
 
-post:
-  comments:
-    enable: true
-    type: disqus
+
 
 disqus:
   shortname: ink-bottle
