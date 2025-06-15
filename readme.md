@@ -1,0 +1,1 @@
+hexo new "Hello World" --lang zh-TW
