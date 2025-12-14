@@ -62,7 +62,19 @@ navbar:
    # - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
-    #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
-    - { key: "links", link: "/atom.xml/", icon: "iconfont icon-rss-fill",name: 'RSS' }
+    - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" , name: '友鏈'}
+    - { key: "rss", link: "/atom.xml/", icon: "iconfont icon-rss-fill", name: 'RSS' }
     
+# Links (友链) configuration
+links:
+  enable: true
+  banner_img: /images/back.webp
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
+  items:
+    - { title: "Neolnax", intro: "Neolnax 的博客", link: "https://blog.neolnax.top/", avatar: "https://blog.neolnax.top/_astro/avatar.BR1jwo-c_Z1pQlmR.webp"}
+  # onerror_avatar: /images/icon/profile.png
+  # custom:
+  #   enable: false
+  #   content: '<hr><p>申請友鏈請按格式提供：博客名、簡介、鏈接、圖片。</p>'
 
